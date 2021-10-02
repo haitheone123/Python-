@@ -1,0 +1,7 @@
+This is the output file.
+lion and elephant and monkey
+ and 15
+lion and elephant and monkey
+ and 15
+lion and elephant and monkey
+ and 15

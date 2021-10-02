@@ -1,0 +1,19 @@
+type: codeforces
+title: Codeforces Global Round 16
+language: English
+summary: |-
+  A. Median Maximization
+  B. MIN-MEX Cut
+  C. MAX-MEX Cut
+  D1. Seating Arrangements (easy version)
+  D2. Seating Arrangements (hard version)
+  E. Buds Re-hanging
+  F. Points Movement
+  G. Four Vertices
+  H. Xor-quiz
+programming_language: Python
+programming_language_version: 3.x
+content:
+- Problems
+end_date_time: 1631466300.000000000
+mode: Study

@@ -1,0 +1,58 @@
+type: codeforces
+files:
+- name: testData/1/input.txt
+  visible: true
+  text: |-
+    8
+    1 5
+    2 5
+    3 5
+    2 1
+    7 17
+    4 14
+    1 1000000000
+    1000000000 1
+  learner_created: false
+- name: testData/1/output.txt
+  visible: true
+  text: |-
+    5
+    2
+    2
+    0
+    4
+    4
+    1000000000
+    0
+  learner_created: false
+- name: main.py
+  visible: true
+  text: |
+    """
+    Accomplished using the EduTools plugin by JetBrains https://plugins.jetbrains.com/plugin/10081-edutools
+
+    To modify the template, go to Preferences -> Editor -> File and Code Templates -> Other
+    """
+
+    if __name__ == "__main__":
+        # Write your solution here
+        pass
+  learner_created: false
+- name: testData/1/latest_output.txt
+  visible: true
+  learner_created: true
+feedback_link: https://codeforces.com/contest/1566/problem/A?locale=en
+status: Failed
+feedback:
+  message: Test '1' failed
+  time: Fri, 17 Sep 2021 00:39:46 UTC
+  expected: |-
+    5
+    2
+    2
+    0
+    4
+    4
+    1000000000
+    0
+  actual: <no output>
